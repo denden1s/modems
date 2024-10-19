@@ -1,0 +1,1 @@
+Train factory method pattern on working case.
